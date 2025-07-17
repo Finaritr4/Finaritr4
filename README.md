@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Finaritra
+# 👋 Hi, I’m Famonjena Finaritra
 - 👨‍🦱 I'm a Software developer
 - 💙 I’m passionate about programming and new technologies, and i am always on the lookout for the latest trends and best practices
 - 💞️ I’m looking to collaborate on different kinds of projects to improve my programming skills
